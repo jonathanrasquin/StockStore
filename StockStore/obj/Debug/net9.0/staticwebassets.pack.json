@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\obj\\Debug\\net9.0\\scopedcss\\bundle\\StockStore.styles.css",
+      "PackagePath": "staticwebassets\\StockStore.styles.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-.NET-Woodsmoke.png",
+      "PackagePath": "staticwebassets\\images\\Socks-.NET-Woodsmoke.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-AWS-Ecstasy.png",
+      "PackagePath": "staticwebassets\\images\\Socks-AWS-Ecstasy.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-AWS-Tulip Tree.png",
+      "PackagePath": "staticwebassets\\images\\Socks-AWS-Tulip Tree.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-AZURE-Piction Blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-AZURE-Piction Blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Angular-blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Angular-blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-AngularJS-Black.png",
+      "PackagePath": "staticwebassets\\images\\Socks-AngularJS-Black.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Arch Linux-Curious Blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Arch Linux-Curious Blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Azure-Cerulean.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Azure-Cerulean.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-CSharp-Persian Indigo.png",
+      "PackagePath": "staticwebassets\\images\\Socks-CSharp-Persian Indigo.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Docker-Astronaut.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Docker-Astronaut.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Docker-Bondi Blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Docker-Bondi Blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Elastic Search-Ripe Lemon.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Elastic Search-Ripe Lemon.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Flutter Dart Dash-Picton Blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Flutter Dart Dash-Picton Blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Git-Cinnabar.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Git-Cinnabar.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Go-Cod Gray.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Go-Cod Gray.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Google Cloud-Key Lime Pie.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Google Cloud-Key Lime Pie.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-HTML5-Cod Gray.png",
+      "PackagePath": "staticwebassets\\images\\Socks-HTML5-Cod Gray.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Java Script-Golden Dream.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Java Script-Golden Dream.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Java-Cod Gray.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Java-Cod Gray.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Kubernetes-Medium Purple.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Kubernetes-Medium Purple.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-MongoDB-Kabul.png",
+      "PackagePath": "staticwebassets\\images\\Socks-MongoDB-Kabul.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-NODE.JS-Mine Shaft.png",
+      "PackagePath": "staticwebassets\\images\\Socks-NODE.JS-Mine Shaft.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-OPEN SOURCE-Golden Grass.png",
+      "PackagePath": "staticwebassets\\images\\Socks-OPEN SOURCE-Golden Grass.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-PHP-Mirage.png",
+      "PackagePath": "staticwebassets\\images\\Socks-PHP-Mirage.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-PostgresSQL-Mirage.png",
+      "PackagePath": "staticwebassets\\images\\Socks-PostgresSQL-Mirage.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Python-Ronchi.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Python-Ronchi.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Python-Saffron.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Python-Saffron.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-R-Cerulean Blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-R-Cerulean Blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-REACT-Sky Blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-REACT-Sky Blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-React-blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-React-blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-SQL-Cod Gray.png",
+      "PackagePath": "staticwebassets\\images\\Socks-SQL-Cod Gray.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Scrum-Burnt Sienna.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Scrum-Burnt Sienna.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-TensorFlow-Tulip Tree.png",
+      "PackagePath": "staticwebassets\\images\\Socks-TensorFlow-Tulip Tree.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-TypeScript-Lochmara.png",
+      "PackagePath": "staticwebassets\\images\\Socks-TypeScript-Lochmara.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Typescript-Denim.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Typescript-Denim.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-UI vs UX-Mahogany.png",
+      "PackagePath": "staticwebassets\\images\\Socks-UI vs UX-Mahogany.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Visual Studio-Hippie Blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Visual Studio-Hippie Blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Vue-blue.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Vue-blue.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\Socks-Vue-green.png",
+      "PackagePath": "staticwebassets\\images\\Socks-Vue-green.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\socks-not-found.webp",
+      "PackagePath": "staticwebassets\\images\\socks-not-found.webp"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\socks1.png",
+      "PackagePath": "staticwebassets\\images\\socks1.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\socks2.png",
+      "PackagePath": "staticwebassets\\images\\socks2.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\images\\socks3.png",
+      "PackagePath": "staticwebassets\\images\\socks3.png"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StockStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.StockStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.StockStore.props",
+      "PackagePath": "build\\StockStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.StockStore.props",
+      "PackagePath": "buildMultiTargeting\\StockStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.StockStore.props",
+      "PackagePath": "buildTransitive\\StockStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
