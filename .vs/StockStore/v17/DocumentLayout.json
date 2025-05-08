@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\repos\\itenium\\StockStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|c:\\repos\\itenium\\stockstore\\stockstore\\wwwroot\\data\\socks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|solutionrelative:stockstore\\wwwroot\\data\\socks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|c:\\repos\\itenium\\stockstore\\stockstore\\models\\sock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|solutionrelative:stockstore\\models\\sock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|c:\\repos\\itenium\\stockstore\\stockstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|solutionrelative:stockstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|c:\\repos\\itenium\\stockstore\\stockstore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|solutionrelative:stockstore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|solutionrelative:stockstore\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|c:\\repos\\itenium\\stockstore\\stockstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|solutionrelative:stockstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|c:\\repos\\itenium\\stockstore\\stockstore\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|solutionrelative:stockstore\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|c:\\repos\\itenium\\stockstore\\stockstore\\models\\sock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43DC33A-6E4D-4F7B-ABBB-F62ABE2B5DCE}|StockStore\\StockStore.csproj|solutionrelative:stockstore\\models\\sock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "socks.json",
+              "DocumentMoniker": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\data\\socks.json",
+              "RelativeDocumentMoniker": "StockStore\\wwwroot\\data\\socks.json",
+              "ToolTip": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\data\\socks.json",
+              "RelativeToolTip": "StockStore\\wwwroot\\data\\socks.json",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAswOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T19:39:22.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\repos\\itenium\\StockStore\\StockStore\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "StockStore\\Layout\\NavMenu.razor",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "StockStore\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T18:46:25.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T18:46:25.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "app.css",
               "DocumentMoniker": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "StockStore\\wwwroot\\css\\app.css",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "StockStore\\wwwroot\\css\\app.css",
               "ViewState": "AgIAAGsBAAAAAAAAAAAAAIEBAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-08T18:44:47.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T18:44:47.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProductList.razor",
               "DocumentMoniker": "C:\\repos\\itenium\\StockStore\\StockStore\\Pages\\ProductList.razor",
               "RelativeDocumentMoniker": "StockStore\\Pages\\ProductList.razor",
@@ -84,12 +99,11 @@
               "RelativeToolTip": "StockStore\\Pages\\ProductList.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T18:43:51.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T18:43:51.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repos\\itenium\\StockStore\\StockStore\\Program.cs",
               "RelativeDocumentMoniker": "StockStore\\Program.cs",
@@ -102,20 +116,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\repos\\itenium\\StockStore\\StockStore\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "StockStore\\Services\\ProductService.cs",
               "ToolTip": "C:\\repos\\itenium\\StockStore\\StockStore\\Services\\ProductService.cs",
               "RelativeToolTip": "StockStore\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T18:34:53.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\repos\\itenium\\StockStore\\StockStore\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "StockStore\\Services\\IProductService.cs",
@@ -123,18 +137,17 @@
               "RelativeToolTip": "StockStore\\Services\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T18:34:06.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T18:34:06.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Sock.cs",
               "DocumentMoniker": "C:\\repos\\itenium\\StockStore\\StockStore\\Models\\Sock.cs",
               "RelativeDocumentMoniker": "StockStore\\Models\\Sock.cs",
               "ToolTip": "C:\\repos\\itenium\\StockStore\\StockStore\\Models\\Sock.cs",
               "RelativeToolTip": "StockStore\\Models\\Sock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T18:33:09.813Z",
               "EditorCaption": ""

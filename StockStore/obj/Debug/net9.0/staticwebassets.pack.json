@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\data\\socks.json",
+      "PackagePath": "staticwebassets\\data\\socks.json"
+    },
+    {
       "Id": "C:\\repos\\itenium\\StockStore\\StockStore\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
